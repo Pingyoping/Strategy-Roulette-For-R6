@@ -1,0 +1,61 @@
+Bomb:Attacking:Get a shield op and form a line. After you have formed your line you must march to the objective while staying in your line. Once there, all get in a corner and survive.
+Bomb:Attacking:Must enter and exit any buildings through windows
+Bomb:Attacking:Only play as operators with explosive gadget like fuze zofia ash and all hard breachers except for maverick
+Bomb:Attacking:All be shield ops but put the shield on your back and crawl the whole game.
+Bomb:Attacking:Only one operator inside the building at one time, the only way another operator can enter/exit the building is either death or victory
+Bomb:Attacking:It is everyone's objective to destroy all cameras before any other objective
+Bomb:Attacking:The defuser holder stays behind everyone as montagne and the rest is recruit with shotguns
+Bomb:Attacking:Must equip silencers and crouch around the map killing anyone stealthy
+Bomb:Attacking:1 goes jackal with primary and secondary shotgun. 1 goes Finka shotgun. 1 goes Amaru with double shotgun. 1 Go nøkk with shotgun 1 Go dokkeobi with bosg and remember to call as amuru grapples.
+Bomb:Attacking:Every one pick an op with grenades and push objective, you can only fight with cooked grenades
+Bomb:Defending:Everyone must spawn peek with pistols only. You must stay at the window or door you are spawn peeking at for 30 seconds before returning to the rest of the map.
+Bomb:Defending:No reinforced walls / ceilings
+Bomb:Defending:If one or more players is not with your party, nominate a player to go into team chat and propose to one (or all) of your teammates on bended knee. Tell them about the reasons why you love them... Continue even if they ignore you/run away.
+Bomb:Defending:Go rook and give the attackers armor pack and try not to die
+Bomb:Defending:All defensive operators must leave the building once the match begins, and can only return if the objective is in immediate danger
+Bomb:Defending:One person go Mira, The rest go anyone with deployable shield and hide in a corner (mainly 4 stack)
+Bomb:Defending:Pick the smaller site and lock it down. Operators castle, melusi, jager, mute and kapkan.
+Bomb:Defending:Use Valkyrie, Maestro, Yokai and any other operator with bulletproof cameras. Place all cams facing obj and hide in a separate room. Only exit the room if obj is in danger or if location is compromised.
+Bomb:Defending:All rotate holes made must be in the shape of the male genitalia.
+Bomb:Defending:Everyone be recruit except for one person who is doc. Recruits must huddle around doc and protect him
+Bomb:Defending:Whoever picks Doc commands the rest of the squad - All recruits
+Secure Area:Attacking:All go hard breacher or operator with breach charges, open up every wall not part of the objective room
+Secure Area:Attacking:Must use only FBI or SEAL operators and enter through the main entrance
+Secure Area:Attacking:Objective must be spammed with flash bangs, smoke and shields in one wave
+Secure Area:Attacking:Everyone goes recruit with the M249 and C75 and must only hipfire them.
+Secure Area:Attacking:Everybody use a pistol with a silencer and only crouch or lean through the building. You must gather intel before killing an operator (aka do not enter the objective must win by eliminating enemy team)
+Secure Area:Attacking:Have a ying, blitz, capitao, finka (with flashes) and a buck (also with flashes) and flash the objective and then rush
+Secure Area:Attacking:You cannot stop moving and you cannot turn around. You must advance to the closest objective without delay
+Secure Area:Attacking:Fill the objective with smoke, enter, and lie down
+Secure Area:Attacking:Go recruit and use only frags
+Secure Area:Attacking:Go Recruit, Fuze, Finka, or Glaz and only barge in and destroy everything in their path as well as defenders.
+Secure Area:Defending:No use of cameras
+Secure Area:Defending:It is everyone's objective to destroy all drones before beginning any preparation
+Secure Area:Defending:2 people go bandit and kaid, the others go someone with barbed wire. Electrify the barbed wire and hide.
+Secure Area:Defending:All stand in objective as a group with shotguns and may only move (as a group) to a different location every 30 seconds
+Secure Area:Defending:All pick recruits with the MP5, barb wire and nitro cells. Cover the entire floor with wires.
+Secure Area:Defending:Pick doc, rook and the lord, boost the lord so he is basically invincible. easy dub
+Secure Area:Defending:You cannot go through doors or windows. You can only go through walls that have been destroyed by you, or the enemy. ( Shotguns, c4, etc. )
+Secure Area:Defending:Completely fortify a room near the objective and when someone enters the actual objective everyone rushes in
+Secure Area:Defending:The whole team goes Recruit with a Deployable Shield. No placing it, and after the prep phase you must walk around with it in your hands in memory of our fallen brethren, the real shield Recruit. You can only shoot when shot at, and it must be your sidearm. Upon kill you must go back to the shield.
+Secure Area:Defending:Everybody must go somebody with cameras (Echo, Valkyrie, Maestro, Doc, etc) and must find a room and hide in it together. All cameras must be placed in that room, facing in or out of it. Everybody must stay on cams until somebody on either team dies.
+Hostage:Attacking:No one enters the objective room until all gadgets have been destroyed
+Hostage:Attacking:Everyone must get into site in the first 30 seconds of the round with any operators
+Hostage:Attacking:Use no breaching charges
+Hostage:Attacking:No use of drones
+Hostage:Attacking:Go all LMGs (Finka, Fuze, Recruit, Capitao, and etc.) and rush the objective hipfiring only. no ADS unless destroying operators gadgets.
+Hostage:Attacking:Have one player run Sledge and bash through all walls on objective
+Hostage:Attacking:All recruit with shotgun and run like hell
+Hostage:Attacking:Use KALI and GLAZ and the rest have to be an operator that uses semi auto weapons with an ACOG and a suppressor. Play the entire round like this but you all must stick together and you can’t switch to your secondarys.
+Hostage:Attacking:Get hostage without killing anybody or damaging anybody
+Hostage:Attacking:You go ops including capitao, ying, zofia and blitz you must use non-lethal, you smoke or flash or b0th then run in and kill the whole team by knifing. you can't kill the enemy team unless they are in smoke to flashed  
+Hostage:Defending:Everyone picks male operators and must go outside for 20 seconds
+Hostage:Defending:Open up all windows and doors to the objective and set up outside of the room looking in. No one from the team can step into the room.
+Hostage:Defending:You can't place barricades on the objective room walls, only the surrounding ones
+Hostage:Defending:Everyone picks and operator with surveillance tools or a bulletproof camera. You can only attack once you have spotted an enemy using your cameras.
+Hostage:Defending:Open all baricadable walls and Castle off all doors
+Hostage:Defending:If it can be destroyed, destroy it. This includes all soft walls, floors, ceilings, barricades, hatches, and anything else.
+Hostage:Defending:Each take a wall and create an art piece. The most beautiful one does not get reinforced over
+Hostage:Defending:1 Person has to play as Mira and the rest are Recruits with any loadout, Find a room near the objective and wait for the enemy team to start defusing, securing or getting the hostage then ambush the enemy team only shooting through Mira's Black Mirror's, Mira Must Use Her Shotgun to kill enemies
+Hostage:Defending:All lay down when round starts
+Hostage:Defending:All players must run to a corner at the end of preparation phase and stay there the rest of the round. Use the prep phase to prepare.
