@@ -1,0 +1,5 @@
+Bomb:Attacking:g
+Bomb:Defending:kf
+Hostage:Defending:e
+Hostage:Attacking:t
+Secure Area:Defending:x
